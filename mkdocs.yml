@@ -81,7 +81,6 @@ nav:
     - 方舟寻访分析: ./LingStarYu/arkrecord.md
     - BAWIKI: ./LingStarYu/bawiki.md
     - 直链提取: ./LingStarYu/directlinker.md
-    - 游戏兑换码查询: ./LingStarYu/game_code.md
-    - Minecraft服务器状态查询: ./LingStarYu/minecraft_server_state.md
+    - Minecraft服务器状态查询: ./LingStarYu/nonebot_mcstatus.md
   - 铃柒白:
     - 简介: ./Ling7White/intro.md
